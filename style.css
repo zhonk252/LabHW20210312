@@ -1,0 +1,26 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color:lightblue;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    background-color: pin;
+}
+
+button{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+}
+
+#click{
+    background-color: antiquewhite;
+    margin:2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem; 
+}
